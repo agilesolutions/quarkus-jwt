@@ -5,7 +5,7 @@
 ```
 mvn compile quarkus:dev
 ```
-[read](https://quarkus.io/guides/jwt-guide)
+[read the Quarkus JWT guide](https://quarkus.io/guides/jwt-guide)
 
 ## generating a JWT token
 ```
