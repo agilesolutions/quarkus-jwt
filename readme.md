@@ -22,7 +22,7 @@ curl -H "Authorization: Bearer eyJraWQiOiJcL3ByaXZhdGVLZXkucGVtIiwidHlwIjoiSldUI
 curl -H "Authorization: Bearer YOUR_TOKEN" http://localhost:8080/secured/winners; echo
 ```
 
-@@ go for the second winners
+## go for the second winners
 ```
 curl -H "Authorization: Bearer YOUR_TOKEN" http://localhost:8080/secured/winners2; echo
 ```
